@@ -84,7 +84,11 @@
 
   .info-socmed {
     position: relative;
-    left: 5px;
+    left: -110px;
+  }
+
+  .textsocmed {
+    transform: translateX(40px);
   }
 
   .alert-success {
